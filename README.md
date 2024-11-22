@@ -1,6 +1,6 @@
 💐Resource flowers gift website for someone
 
-https://prateslr.com.io/flowers/index.html/
+https://prateslr.github.io/flowers/index.html/
 
 # Flowers for Someone 🌸
 
